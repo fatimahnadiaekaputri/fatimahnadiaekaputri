@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**fatimahnadiaekaputri/fatimahnadiaekaputri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# HELLO! 
+ 
+I am **Fatimah Nadia Eka Putri**.<br>
+ 
+Currently, i am a **Information Engineering Student** at Gadjah Mada University.<br>
+ 
+I am interested in Web Development (Front End and Back End) and Data Analysis.<br>
+ 
+You can also check my Linkedin here. [Linkedin](https://www.linkedin.com/in/fatimah-nadia-eka-putri-251484246/)
+ 
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fatimahnadiaekaputri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fatimahnadiaekaputri&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
