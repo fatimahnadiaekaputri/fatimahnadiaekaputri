@@ -2,7 +2,7 @@
  
 I am **Fatimah Nadia Eka Putri**.<br>
  
-Currently, i am a **Information Engineering Student** at Gadjah Mada University.<br>
+Currently, i am an **Information Engineering Student** at Gadjah Mada University.<br>
  
 I am interested in Web Development (Front End and Back End) and Data Analysis.<br>
  
