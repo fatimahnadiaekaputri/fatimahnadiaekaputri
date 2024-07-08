@@ -10,8 +10,8 @@ You can also check my Linkedin here. [Linkedin](https://www.linkedin.com/in/fati
  
 <p align="left">
 <a href="https://github.com/fatimahnadiekaputri">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fatimahnadiekaputri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fatimahnadiekaputri&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fatimahnadiaekaputri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fatimahnadiaekaputri&layout=compact&theme=algolia"/>
 </a>
 </p>
 
